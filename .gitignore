@@ -2,6 +2,7 @@
 # cache and every built .3dsx, .cia and .elf) stays out.
 /*
 !/.gitignore
+!/README.md
 !/app/
 !/core/
 
