@@ -3,6 +3,9 @@
 /*
 !/.gitignore
 !/README.md
+!/docs/
+/docs/*
+!/docs/screenshot.jpg
 !/app/
 !/core/
 
