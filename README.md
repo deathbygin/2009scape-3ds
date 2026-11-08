@@ -4,6 +4,8 @@ A native client for [2009scape](https://2009scape.org) on the New Nintendo 3DS, 
 
 This is a work in progress, shared so people can follow along. **It is not ready to play yet.** There are no releases so far, and it has only been tested against a private local server so far.
 
+Disclaimer: This project is created with AI assistance. Use it at your own risk and do not share this code anywhere that AI-generated code is not allowed.
+
 ## Status
 
 **Working on real hardware:** the 3D world, walking, objects and doors, NPCs and other players with animation, chat heads and dialogue, hit splats, ground items, and logging in and out. These interface tabs work too: inventory, worn equipment, skills and skill guides, quests and the quest journal, combat, prayer, emotes, music, all three spellbooks, options, friends, ignore and chat. So do the bank, shops and the on-screen keyboard.
