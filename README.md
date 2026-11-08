@@ -1,6 +1,6 @@
 # 2009scape 3DS
 
-![2009scape 3DS running on a New 3DS XL: the game outside Lumbridge Castle on the top screen and the skills tab on the bottom screen](docs/screenshot.jpg)
+<a href="docs/screenshot.jpg"><img src="docs/screenshot.jpg" width="480" alt="2009scape 3DS running on a New 3DS XL: the game outside Lumbridge Castle on the top screen and the skills tab on the bottom screen"></a>
 
 This is a work in progress, shared so people can follow along. **It is not ready to play yet.** There are no releases so far, and it has only been tested against a private local server so far.
 
