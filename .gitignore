@@ -1,0 +1,19 @@
+# Only what the build needs is kept. Everything else in this folder (the local server, tools, test runs, the game
+# cache and every built .3dsx, .cia and .elf) stays out.
+/*
+!/.gitignore
+!/app/
+!/core/
+
+/app/*
+!/app/Makefile
+!/app/source/
+!/app/cia/
+/app/cia/*
+!/app/cia/build.sh
+!/app/cia/make_art.py
+!/app/cia/rs3ds.rsf
+
+/core/*
+!/core/*.c
+!/core/*.h
