@@ -1,12 +1,12 @@
 # 2009scape 3DS
 
-<p align="center">
-  <a href="docs/screenshot.jpg"><img src="docs/screenshot.jpg" width="480" alt="2009scape 3DS running on a New 3DS XL: the game outside Lumbridge Castle on the top screen and the skills tab on the bottom screen"></a>
-</p>
-
 This is a work in progress, shared so people can follow along. **It is not ready to play yet.** There are no releases so far, and it has only been tested against a private local server so far.
 
 A native client for [2009scape](https://2009scape.org) on the New Nintendo 3DS, written in C with libctru and citro3d with AI assistance. Based on revision 530, the version 2009scape is built on.
+
+<p align="center">
+  <a href="docs/screenshot.jpg"><img src="docs/screenshot.jpg" width="480" alt="2009scape 3DS running on a New 3DS XL: the game outside Lumbridge Castle on the top screen and the skills tab on the bottom screen"></a>
+</p>
 
 Disclaimer: This project is created with AI assistance. Use it at your own risk and do not share this code anywhere that AI-generated code is not allowed.
 
